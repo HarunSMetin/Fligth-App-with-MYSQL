@@ -94,7 +94,7 @@ If you have access as a Manager, you have 3 options.
 
 ### User Table
 <img
-	  src="Table/USERTable.PNG"
+	  src="Table/userTable.PNG"
 	  alt="Alt text"
 	  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
