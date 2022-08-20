@@ -1,4 +1,4 @@
-This is a *NeatBeans* **Java Swing** Project Connected with **MYSQL** Database
+This is a *NetBeans* **Java Swing** Project Connected with **MYSQL** Database
 
 
 # GUI Pages
