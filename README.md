@@ -9,6 +9,7 @@ This is a *NetBeans* **Java Swing** Project Connected with **MYSQL** Database
 ## Login Page
 
 Program starts with the Login page when first opened. If you are not a user, you can create an account on the application, if you are a user, according to your ID number, it understands whether you are a **Manager** or **User** and redirects to other windows.
+![Alt text](Page/loginPage.PNG?raw=true "Title")
 
 ##  Create User 
 
