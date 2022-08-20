@@ -30,13 +30,13 @@ After creating an account, you can log in by returning to the login page. When y
 
 #### Search Passengers
 <img
-  src="Page/userPageUçuşAra.PNG"
+  src="Page/userPageYolcuAra.PNG"
   alt="Alt text"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 #### Flight Search
 Or you can list the flights on the specified date by switching from the menu bar.
 <img
-  src="Page/userPageYolcuAra.PNG"
+  src="Page/userPageUçuşAra.PNG"
   alt="Alt text"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
@@ -68,15 +68,39 @@ If you have access as a Manager, you have 3 options.
 ## *Table images taken from MYSQL Workbench:*
 
 ### Airplane Table
+<img
+	  src="Table/airplaneTable.PNG"
+	  alt="Alt text"
+	  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Airport Table
+<img
+	  src="Table/airportTable.PNG"
+	  alt="Alt text"
+	  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Flight Info Table
+<img
+	  src="Table/flightInfoTable.PNG"
+	  alt="Alt text"
+	  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Ticket Table
+<img
+	  src="Table/ticketTable.PNG"
+	  alt="Alt text"
+	  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### User Table
+<img
+	  src="Table/userTable.PNG"
+	  alt="Alt text"
+	  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Seat Table
+<img
+	  src="Table/seatTable.PNG"
+	  alt="Alt text"
+	  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
