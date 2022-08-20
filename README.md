@@ -66,6 +66,8 @@ If you have access as a Manager, you have 3 options.
 	
 # Database Adaptation:
 
+You can use **flightapp.sql** file to create your schema and tables
+
 ## *Table images taken from MYSQL Workbench:*
 
 ### Airplane Table
