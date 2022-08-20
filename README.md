@@ -18,6 +18,7 @@ Program starts with the Login page when first opened. If you are not a user, you
 ##  Create User 
 
 When you click the Create User button, you are directed to another window. After entering the missing information there, the account is created.
+
 <img
   src="Page/kaydolPage.PNG"
   alt="Alt text"
