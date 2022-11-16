@@ -1,6 +1,6 @@
 This is a *NetBeans* **Java Swing** Project Connected with **MYSQL** Database
 
-#How to run
+# How to run
 Run the jar file from this path :JavaApplication1/dist/flightApp.jar
 
 # GUI Pages
